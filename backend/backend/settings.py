@@ -123,7 +123,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
-
-
-TELEGRAM_TO = 235548021
-TELEGRAM_TOKEN = '7997804868:AAH-9X17rsOlYkoWv6bOCk4rCbQUmATE1xI'
